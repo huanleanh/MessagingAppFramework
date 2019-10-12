@@ -1,1 +1,1 @@
-# MessagingAppFramework
+# Messaging Application Framework
